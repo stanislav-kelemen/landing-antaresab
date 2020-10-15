@@ -3,16 +3,22 @@
   color: white;
   font-size: 16px;
   padding-top: 10px;
-  padding-bottom: 10px; }
-  .navbar img {
-    height: 20px;
-    width: 30px; }
-  .navbar .navbar-brand {
-    font-size: 20px; }
+  padding-bottom: 10px;
+}
+
+.navbar img {
+  height: 20px;
+  width: 30px;
+}
+
+.navbar .navbar-brand {
+  font-size: 20px;
+}
 
 header .carousel-caption {
   top: 0 !important;
-  bottom: 0 !important; }
+  bottom: 0 !important;
+}
 
 header p {
   font-size: 36px;
@@ -22,66 +28,86 @@ header p {
   -webkit-transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -o-transform: translateY(-50%);
-  transform: translateY(-50%); }
+  transform: translateY(-50%);
+}
 
 header #carouselExampleControls .darkened {
-  position: relative; }
-  header #carouselExampleControls .darkened:before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-color: rgba(0, 0, 0, 0.2);
-    z-index: 2; }
+  position: relative;
+}
+
+header #carouselExampleControls .darkened:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.2);
+  z-index: 2;
+}
 
 header #carouselExampleControls img {
   height: 350px;
   -webkit-filter: blur(2px);
-  filter: blur(2px); }
+  filter: blur(2px);
+}
 
 header #carouselExampleControls1 img {
   height: 200px;
   -webkit-filter: blur(2px);
-  filter: blur(2px); }
+  filter: blur(2px);
+}
 
 header #carouselExampleControls1 p {
-  font-size: 30px; }
+  font-size: 30px;
+}
 
 .title {
-  font-size: 30px; }
+  font-size: 30px;
+}
 
 #AboutUs {
   color: black;
-  width: 90%; }
-  #AboutUs .wood {
-    height: 300px;
-    width: 450px; }
+  width: 90%;
+}
+
+#AboutUs .wood {
+  height: 300px;
+  width: 450px;
+}
 
 #Goods .title-content {
-  font-size: 22px; }
+  font-size: 22px;
+}
 
 #Goods .col-6 {
-  padding: 0 !important; }
+  padding: 0 !important;
+}
 
 #Goods img {
   width: 400px;
-  height: 200px; }
+  height: 200px;
+}
 
 footer {
   background: #2F2F2F;
   height: -webkit-max-content;
   height: -moz-max-content;
   height: max-content;
-  font-size: 14px; }
-  footer span {
-    font-family: 'Montserrat:600', sans-serif;
-    font-weight: 600; }
+  font-size: 14px;
+}
+
+footer span {
+  font-family: 'Montserrat:600', sans-serif;
+  font-weight: 600;
+}
 
 body {
   max-width: 1920px;
   margin: 0 auto;
-  font-family: 'Montserrat', sans-serif; }
-  body .cbalink, body .cumf_bt_form_wrapper {
-    display: none; }
+  font-family: 'Montserrat', sans-serif;
+}
+
+body .cbalink, body .cumf_bt_form_wrapper {
+  display: none;
+}
